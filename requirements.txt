@@ -1,0 +1,6 @@
+# Disarankan Python 3.11 x64 untuk Windows/Linux.
+PySide6>=6.7,<6.11
+opencv-python>=4.9,<4.12
+mediapipe==0.10.35
+edge-tts>=6.1,<8
+numpy>=1.26,<3

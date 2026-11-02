@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+*.log
+assets/models/*.task
+assets/audio_cache/*.mp3
+screenshots/

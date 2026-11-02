@@ -1,0 +1,504 @@
+{
+  "metadata": {
+    "document": "Rancangan Konten Aplikasi 10 Menu Layanan Informasi Cerdas FILKOM UB",
+    "version": "Rancangan 1.0",
+    "draft_date": "2026-11-02",
+    "editorial_status": "DRAF PENELITIAN; bukan materi publikasi resmi FILKOM UB"
+  },
+  "menus": [
+    {
+      "id": 1,
+      "gesture": 1,
+      "title": "Profil FILKOM",
+      "subtitle": "Kenali sejarah, identitas, dan arah pengembangan FILKOM UB.",
+      "intro": "Fakultas Ilmu Komputer Universitas Brawijaya (FILKOM UB) merupakan unit akademik yang menyelenggarakan pendidikan, penelitian, dan pengabdian kepada masyarakat dalam bidang ilmu komputer dan teknologi informasi.",
+      "sections": [
+        {
+          "title": "Sejarah singkat",
+          "body": "FILKOM berawal dari Program Teknologi Informasi dan Ilmu Komputer (PTIIK) yang dibentuk pada 27 Oktober 2011. Pada 10 Desember 2014, PTIIK resmi menjadi Fakultas Ilmu Komputer.",
+          "asset": null
+        },
+        {
+          "title": "Identitas kelembagaan",
+          "body": "FILKOM merupakan bagian dari Universitas Brawijaya di Kota Malang dan menaungi bidang keilmuan terkait komputasi, teknologi informasi, serta sistem informasi.",
+          "asset": null
+        },
+        {
+          "title": "Visi dan arah pengembangan",
+          "body": "Visi FILKOM menekankan daya saing internasional dan kontribusi pengembangan teknologi informasi serta ilmu komputer bagi industri dan masyarakat melalui pendidikan, penelitian, dan pengabdian.",
+          "asset": null
+        },
+        {
+          "title": "Misi utama",
+          "body": "Menyelenggarakan pendidikan berkualitas, meningkatkan penelitian dan pengabdian, memperkuat tata kelola, serta mengembangkan kerja sama nasional dan internasional.",
+          "asset": null
+        }
+      ],
+      "summary": "FILKOM UB berkembang dari PTIIK (2011) menjadi fakultas (2014), dengan fokus pada pendidikan, penelitian, dan pengabdian di bidang komputer dan teknologi informasi.",
+      "narration_id": "menu_01",
+      "narration_text": "Selamat datang di informasi profil Fakultas Ilmu Komputer Universitas Brawijaya, atau FILKOM UB. Perjalanan FILKOM dimulai dari Program Teknologi Informasi dan Ilmu Komputer yang dibentuk pada tahun dua ribu sebelas. Pada tanggal sepuluh Desember dua ribu empat belas, unit tersebut resmi menjadi Fakultas Ilmu Komputer. FILKOM berkomitmen menyelenggarakan pendidikan berkualitas, mengembangkan penelitian yang bermanfaat, serta melaksanakan pengabdian kepada masyarakat. Dengan semangat daya saing internasional, FILKOM mendorong pemanfaatan ilmu komputer dan teknologi informasi untuk menjawab kebutuhan industri dan masyarakat. Untuk memilih informasi lain, silakan kembali ke menu utama menggunakan gestur kepalan tangan.",
+      "visual_assets": [],
+      "visual_guidance": "Foto gedung atau lingkungan FILKOM yang diizinkan untuk digunakan; garis waktu dua tonggak sejarah; kartu visi dan misi.",
+      "source_codes": [
+        "S01",
+        "S02",
+        "S03"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/profil/",
+        "https://filkom.ub.ac.id/profil/sejarah/",
+        "https://filkom.ub.ac.id/profil/visi-misi-dan-tujuan/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Gunakan ringkasan visi dan misi dalam aplikasi; redaksi lengkap tetap mengacu pada laman resmi.",
+      "requires_current_information_check": false
+    },
+    {
+      "id": 2,
+      "gesture": 2,
+      "title": "Fasilitas",
+      "subtitle": "Informasi sarana pembelajaran dan penunjang kegiatan akademik.",
+      "intro": "FILKOM menyediakan sarana dan prasarana untuk mendukung pembelajaran dan aktivitas akademik. Dokumentasi fasilitas dalam aplikasi ditampilkan secara informatif, tanpa mencantumkan spesifikasi ruangan yang belum diverifikasi.",
+      "sections": [
+        {
+          "title": "Ruang dan sarana pembelajaran",
+          "body": "Fasilitas pembelajaran menjadi tempat pelaksanaan kuliah, diskusi, dan kegiatan akademik. Foto, nama ruang, serta kapasitas hanya ditampilkan setelah diverifikasi oleh pihak fakultas.",
+          "asset": null
+        },
+        {
+          "title": "Laboratorium",
+          "body": "FILKOM mencantumkan sejumlah laboratorium bidang komputasi pada situs resminya. Daftar lengkap dan bidang masing-masing disediakan pada Menu 4.",
+          "asset": null
+        },
+        {
+          "title": "Dukungan pembelajaran digital",
+          "body": "Mahasiswa dapat memperoleh dukungan kegiatan akademik melalui layanan digital yang terdaftar dalam laman Info Mahasiswa, seperti Eling dan sistem informasi akademik.",
+          "asset": null
+        },
+        {
+          "title": "Informasi fasilitas lain",
+          "body": "Area belajar, aksesibilitas, perpustakaan, internet, dan fasilitas penunjang lainnya dapat ditambahkan setelah ketersediaan serta ketentuan penggunaannya dikonfirmasi.",
+          "asset": null
+        }
+      ],
+      "summary": "Fasilitas pembelajaran, laboratorium, dan dukungan digital ditampilkan sebagai kelompok informasi utama; rincian fisik dilengkapi setelah verifikasi.",
+      "narration_id": "menu_02",
+      "narration_text": "Anda sedang mengakses informasi fasilitas FILKOM Universitas Brawijaya. Sarana dan prasarana fakultas dirancang untuk mendukung kegiatan pendidikan dan pengembangan kompetensi mahasiswa. Informasi dalam menu ini mencakup ruang pembelajaran, laboratorium, serta dukungan layanan digital akademik. Untuk informasi laboratorium secara lebih lengkap, tersedia menu khusus laboratorium pada halaman utama. Foto ruangan, lokasi, kapasitas, dan aturan pemakaian akan ditampilkan sesuai data fasilitas yang telah diverifikasi. Silakan gunakan gestur kepalan tangan untuk kembali ke daftar menu informasi.",
+      "visual_assets": [],
+      "visual_guidance": "Galeri foto fasilitas resmi; kartu fasilitas dengan nama, lokasi, fungsi, dan ketentuan pemakaian setelah tersedia data valid.",
+      "source_codes": [
+        "S04",
+        "S06",
+        "S07"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/fasilitas/",
+        "https://filkom.ub.ac.id/",
+        "https://filkom.ub.ac.id/info-mahasiswa/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Foto ruang kelas, laboratorium, perpustakaan, dan detail fasilitas fisik harus diverifikasi; mockup sebelumnya bersifat ilustratif.",
+      "requires_current_information_check": false
+    },
+    {
+      "id": 3,
+      "gesture": 3,
+      "title": "Program Studi",
+      "subtitle": "Daftar program sarjana, magister, dan doktor di FILKOM UB.",
+      "intro": "Berdasarkan daftar program studi pada situs resmi FILKOM, terdapat delapan program studi yang tercantum pada jenjang sarjana, magister, dan doktor.",
+      "sections": [
+        {
+          "title": "Program Sarjana (S1)",
+          "body": "Teknik Informatika; Teknik Komputer; Sistem Informasi; Teknologi Informasi; Pendidikan Teknologi Informasi.",
+          "asset": null
+        },
+        {
+          "title": "Program Magister (S2)",
+          "body": "Magister Ilmu Komputer dan Magister Sistem Informasi.",
+          "asset": null
+        },
+        {
+          "title": "Program Doktor (S3)",
+          "body": "Doktor Ilmu Komputer.",
+          "asset": null
+        },
+        {
+          "title": "Gambaran bidang kajian",
+          "body": "Teknik Informatika berfokus pada komputasi dan pengembangan perangkat lunak; Teknik Komputer pada integrasi perangkat keras-perangkat lunak; Sistem Informasi pada sistem dan proses organisasi; Teknologi Informasi pada pemanfaatan serta pengelolaan teknologi; Pendidikan Teknologi Informasi pada aspek pendidikan dan teknologi. Penjelasan ini merupakan ringkasan orientasi keilmuan, bukan kutipan profil resmi setiap program studi.",
+          "asset": null
+        }
+      ],
+      "summary": "8 program studi: 5 sarjana, 2 magister, dan 1 doktor. Pengguna dapat melihat nama program dan kelompok jenjang pendidikan.",
+      "narration_id": "menu_03",
+      "narration_text": "FILKOM Universitas Brawijaya menyediakan pilihan pendidikan pada jenjang sarjana, magister, dan doktor. Pada jenjang sarjana, tersedia program studi Teknik Informatika, Teknik Komputer, Sistem Informasi, Teknologi Informasi, serta Pendidikan Teknologi Informasi. Pada jenjang magister, tersedia Magister Ilmu Komputer dan Magister Sistem Informasi. Sementara itu, pada jenjang doktor, tersedia Doktor Ilmu Komputer. Setiap program studi memiliki fokus keilmuan dan capaian pembelajaran yang berbeda. Untuk memperoleh rincian kurikulum, persyaratan, serta status akreditasi terkini, silakan merujuk pada halaman resmi program studi FILKOM.",
+      "visual_assets": [],
+      "visual_guidance": "Pengelompokan kartu S1/S2/S3; nama resmi delapan program; akses tautan ke profil prodi dan status akreditasi.",
+      "source_codes": [
+        "S05",
+        "S01",
+        "S17"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/pendidikan/",
+        "https://filkom.ub.ac.id/profil/",
+        "https://filkom.ub.ac.id/pendidikan/status-akreditasi/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Hindari menampilkan masa berlaku akreditasi dalam naskah TTS tetap karena dapat berubah.",
+      "requires_current_information_check": true
+    },
+    {
+      "id": 4,
+      "gesture": 4,
+      "title": "Laboratorium",
+      "subtitle": "Mengenal delapan laboratorium yang tercantum pada situs FILKOM.",
+      "intro": "Situs resmi FILKOM mencantumkan delapan laboratorium. Untuk aplikasi, nama resmi ditampilkan sebagai informasi utama, sementara penjelasan bidang disusun sebagai deskripsi umum berdasarkan penamaan laboratorium.",
+      "sections": [
+        {
+          "title": "Kelompok komputasi dan sistem",
+          "body": "Laboratorium Jaringan Berbasis Informasi; Laboratorium Rekayasa Perangkat Lunak; Laboratorium Sistem Cerdas; Laboratorium Sistem Informasi.",
+          "asset": null
+        },
+        {
+          "title": "Kelompok media dan sistem fisik",
+          "body": "Laboratorium Media Game dan Mobile; Laboratorium Robotika dan Sistem Tertanam.",
+          "asset": null
+        },
+        {
+          "title": "Kelompok pendidikan",
+          "body": "Laboratorium Pembelajaran; Laboratorium Teknologi Pembelajaran.",
+          "asset": null
+        },
+        {
+          "title": "Aktivitas dan informasi tambahan",
+          "body": "Situs atau pengelola laboratorium dapat menyediakan informasi kegiatan praktikum, penelitian, pelatihan, dan pengembangan karya ilmiah. Jadwal penggunaan dan layanan masing-masing laboratorium perlu diambil dari sumber resmi terkait.",
+          "asset": null
+        }
+      ],
+      "summary": "Delapan laboratorium tercantum pada situs resmi FILKOM. Nama dan orientasi bidang menjadi isi awal, sedangkan jadwal dan fasilitas rinci menyusul verifikasi.",
+      "narration_id": "menu_04",
+      "narration_text": "Menu ini memperkenalkan laboratorium yang tercantum pada laman resmi FILKOM Universitas Brawijaya. Laboratorium tersebut meliputi Jaringan Berbasis Informasi, Media Game dan Mobile, Robotika dan Sistem Tertanam, Rekayasa Perangkat Lunak, Sistem Cerdas, Sistem Informasi, Laboratorium Pembelajaran, serta Laboratorium Teknologi Pembelajaran. Laboratorium menjadi salah satu unsur penting dalam mendukung kegiatan akademik dan pengembangan ilmu pengetahuan. Informasi mengenai aktivitas, fasilitas khusus, lokasi, dan ketentuan penggunaan masing-masing laboratorium perlu mengikuti pengumuman dan ketentuan pengelolanya. Gunakan gestur kepalan tangan untuk kembali ke halaman utama.",
+      "visual_assets": [],
+      "visual_guidance": "Grid nama delapan laboratorium dengan ikon kategori; foto dan profil masing-masing hanya setelah disetujui pengelola.",
+      "source_codes": [
+        "S06",
+        "S04",
+        "S14"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/",
+        "https://filkom.ub.ac.id/fasilitas/",
+        "https://filkom.ub.ac.id/penelitian-dan-pengabdian/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Jangan menyamakan nama lab dengan lokasi atau perangkat tertentu sebelum dikonfirmasi.",
+      "requires_current_information_check": false
+    },
+    {
+      "id": 5,
+      "gesture": 5,
+      "title": "Layanan Akademik",
+      "subtitle": "Panduan umum layanan akademik dan portal mahasiswa.",
+      "intro": "Mahasiswa FILKOM dapat mengakses beberapa platform yang dicantumkan dalam laman Info Mahasiswa. Informasi disampaikan sebagai petunjuk menuju layanan, bukan sebagai pengganti ketentuan akademik resmi.",
+      "sections": [
+        {
+          "title": "SIAM",
+          "body": "Sistem Informasi Akademik Mahasiswa Universitas Brawijaya untuk keperluan informasi dan aktivitas akademik sesuai kewenangan pengguna.",
+          "asset": null
+        },
+        {
+          "title": "FILKOM Apps",
+          "body": "Portal aplikasi akademik dan layanan internal FILKOM yang dicantumkan pada laman Info Mahasiswa.",
+          "asset": null
+        },
+        {
+          "title": "Eling",
+          "body": "Portal pembelajaran daring FILKOM yang digunakan untuk mendukung aktivitas pembelajaran.",
+          "asset": null
+        },
+        {
+          "title": "HaloFILKOM",
+          "body": "Layanan bantuan atau helpdesk untuk menyampaikan kendala terkait layanan di lingkungan FILKOM.",
+          "asset": null
+        },
+        {
+          "title": "Kalender dan dokumen",
+          "body": "Kalender akademik, jadwal kuliah, pedoman, dan prosedur layanan dapat diakses melalui portal serta dokumen resmi yang berlaku.",
+          "asset": null
+        }
+      ],
+      "summary": "Akses layanan akademik melalui SIAM, FILKOM Apps, Eling, HaloFILKOM, serta kalender dan pedoman resmi.",
+      "narration_id": "menu_05",
+      "narration_text": "Selamat datang pada menu layanan akademik FILKOM. Untuk mendukung aktivitas perkuliahan, mahasiswa dapat menggunakan layanan digital yang tercantum pada portal resmi fakultas. Layanan tersebut meliputi SIAM sebagai sistem informasi akademik universitas, FILKOM Apps untuk layanan internal fakultas, dan Eling sebagai portal pembelajaran daring. Apabila mengalami kendala layanan, mahasiswa dapat memanfaatkan HaloFILKOM sebagai kanal bantuan. Informasi mengenai kalender akademik, jadwal perkuliahan, dan prosedur administrasi harus selalu mengikuti pengumuman terbaru. Silakan memeriksa laman Info Mahasiswa FILKOM untuk memperoleh akses dan ketentuan yang berlaku.",
+      "visual_assets": [],
+      "visual_guidance": "Empat kartu portal layanan; panel kalender akademik dan jadwal; tombol tautan yang dapat digunakan melalui mouse atau admin.",
+      "source_codes": [
+        "S07",
+        "S08",
+        "S16"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/info-mahasiswa/",
+        "https://filkom.ub.ac.id/profil/dokumen-resmi/",
+        "https://filkom.ub.ac.id/pendidikan/sistem-pendidikan/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Aplikasi gestur tidak perlu meminta NIM, kata sandi, atau data akademik pribadi pengguna.",
+      "requires_current_information_check": true
+    },
+    {
+      "id": 6,
+      "gesture": 6,
+      "title": "Penerimaan Mahasiswa",
+      "subtitle": "Panduan umum jalur pendaftaran dan rujukan seleksi resmi.",
+      "intro": "Penerimaan mahasiswa FILKOM mengikuti ketentuan Universitas Brawijaya. Situs FILKOM memuat kelompok jalur seleksi untuk program sarjana dan pascasarjana, sedangkan ketentuan dan jadwal terbaru diakses melalui SELMA UB.",
+      "sections": [
+        {
+          "title": "Jalur Sarjana Nasional",
+          "body": "Seleksi Nasional Berdasarkan Prestasi (SNBP) dan Seleksi Nasional Berdasarkan Tes (SNBT), mengikuti pengumuman nasional yang berlaku.",
+          "asset": null
+        },
+        {
+          "title": "Jalur Sarjana Lainnya",
+          "body": "Seleksi Mandiri UB, serta jalur lain yang tercantum dan dibuka sesuai program studi dan ketentuan penerimaan tahun berjalan, misalnya IUP atau SMPD.",
+          "asset": null
+        },
+        {
+          "title": "Jalur Pascasarjana",
+          "body": "Pendaftaran program magister dan doktor melalui seleksi pascasarjana sesuai ketentuan masing-masing program studi.",
+          "asset": null
+        },
+        {
+          "title": "Alur mendapatkan informasi",
+          "body": "Pilih jenjang dan program studi, buka situs SELMA UB, periksa persyaratan, jadwal, biaya, dan tahapan seleksi pada pengumuman tahun berjalan.",
+          "asset": null
+        }
+      ],
+      "summary": "Pilihan jalur disesuaikan dengan jenjang dan tahun penerimaan. Rujukan utama jadwal serta syarat adalah SELMA UB.",
+      "narration_id": "menu_06",
+      "narration_text": "Menu penerimaan mahasiswa memberikan gambaran umum jalur masuk Fakultas Ilmu Komputer Universitas Brawijaya. Untuk jenjang sarjana, pilihan seleksi dapat mencakup Seleksi Nasional Berdasarkan Prestasi, Seleksi Nasional Berdasarkan Tes, dan seleksi mandiri Universitas Brawijaya. Jalur khusus lainnya hanya berlaku pada program dan periode yang ditetapkan. Untuk jenjang magister dan doktor, pendaftaran dilakukan melalui mekanisme seleksi pascasarjana. Karena jadwal, biaya, kuota, dan persyaratan dapat berubah setiap tahun, mohon selalu mengacu pada situs resmi seleksi masuk Universitas Brawijaya, yaitu selma titik ub titik ac titik id.",
+      "visual_assets": [],
+      "visual_guidance": "Bagan jenjang S1/S2/S3; kartu jalur nasional/mandiri/pascasarjana; QR atau tautan SELMA UB yang diverifikasi.",
+      "source_codes": [
+        "S09",
+        "S10"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/pendidikan/informasi-pendaftaran/",
+        "https://selma.ub.ac.id/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Jangan memasukkan tanggal pembukaan, biaya, atau kuota yang belum diperbarui untuk periode berjalan.",
+      "requires_current_information_check": true
+    },
+    {
+      "id": 7,
+      "gesture": 7,
+      "title": "Beasiswa",
+      "subtitle": "Informasi sumber pengumuman dan prosedur umum beasiswa.",
+      "intro": "FILKOM menyediakan laman informasi beasiswa yang memuat berbagai pengumuman. Karena program dan periodenya berubah, konten aplikasi fokus pada cara mendapatkan informasi serta ketentuan verifikasi.",
+      "sections": [
+        {
+          "title": "Sumber pengumuman",
+          "body": "Gunakan halaman Informasi Beasiswa FILKOM dan pengumuman resmi Universitas Brawijaya sebagai rujukan utama.",
+          "asset": null
+        },
+        {
+          "title": "Ragam informasi",
+          "body": "Pengumuman dapat memuat bantuan biaya pendidikan, beasiswa prestasi, atau program dari pihak mitra. Ketersediaannya mengikuti pengumuman masing-masing penyelenggara.",
+          "asset": null
+        },
+        {
+          "title": "Pemeriksaan persyaratan",
+          "body": "Periksa jenjang sasaran, kriteria pendaftar, dokumen yang diminta, batas waktu, dan prosedur pendaftaran dalam pengumuman resmi.",
+          "asset": null
+        },
+        {
+          "title": "Keamanan pendaftaran",
+          "body": "Jangan memberikan data pribadi kepada pihak yang tidak terverifikasi. Situs layanan informasi ini hanya menampilkan rujukan, tidak memproses pendaftaran beasiswa.",
+          "asset": null
+        }
+      ],
+      "summary": "Pengguna diarahkan pada pengumuman beasiswa resmi, cara membaca persyaratan, dan langkah pendaftaran yang aman.",
+      "narration_id": "menu_07",
+      "narration_text": "Pada menu beasiswa, Anda dapat memperoleh panduan untuk menemukan informasi kesempatan pendanaan pendidikan. FILKOM Universitas Brawijaya menyediakan halaman informasi beasiswa yang memuat pengumuman dari berbagai program dan penyelenggara. Setiap beasiswa memiliki persyaratan, sasaran penerima, jadwal, dan prosedur yang berbeda. Sebelum mendaftar, pastikan Anda membaca sumber resmi, memperhatikan batas waktu, serta menyiapkan dokumen sesuai pengumuman. Program yang pernah diumumkan belum tentu sedang membuka pendaftaran. Untuk itu, silakan periksa halaman Informasi Beasiswa FILKOM secara berkala agar memperoleh informasi yang terbaru dan valid.",
+      "visual_assets": [],
+      "visual_guidance": "Panel tautan pengumuman resmi; checklist pemeriksaan syarat; penanda “cek periode terbaru”, tanpa tanggal kedaluwarsa statis.",
+      "source_codes": [
+        "S11",
+        "S07"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/kemahasiswaan/informasi-beasiswa/",
+        "https://filkom.ub.ac.id/info-mahasiswa/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Contoh beasiswa yang terlihat pada situs merupakan arsip pengumuman, bukan jaminan pendaftaran masih dibuka.",
+      "requires_current_information_check": true
+    },
+    {
+      "id": 8,
+      "gesture": 8,
+      "title": "Kemahasiswaan",
+      "subtitle": "Organisasi, kegiatan, dan pengembangan potensi mahasiswa.",
+      "intro": "Kegiatan kemahasiswaan mendukung pengembangan kepemimpinan, minat, bakat, kerja sama, dan prestasi mahasiswa. Situs FILKOM mencantumkan berbagai unsur organisasi dan komunitas mahasiswa.",
+      "sections": [
+        {
+          "title": "Organisasi perwakilan mahasiswa",
+          "body": "Situs FILKOM mencantumkan Badan Eksekutif Mahasiswa (BEM) dan Dewan Perwakilan Mahasiswa (DPM).",
+          "asset": null
+        },
+        {
+          "title": "Komunitas dan organisasi mahasiswa",
+          "body": "Situs resmi juga mencantumkan nama DISPLAY, RAION, K-RISMA, OPTIIK, POROS, BIOS, dan LKI-AMD. Keaktifan serta nomenklatur terbaru perlu diverifikasi sebelum penayangan permanen.",
+          "asset": null
+        },
+        {
+          "title": "Kegiatan pengembangan diri",
+          "body": "Pengguna dapat memperoleh gambaran kegiatan organisasi, kompetisi, pembinaan, pendampingan, dan program pengembangan minat dan bakat berdasarkan informasi resmi yang tersedia.",
+          "asset": null
+        },
+        {
+          "title": "Layanan kemahasiswaan",
+          "body": "Pedoman dan pengajuan administrasi kegiatan dapat merujuk pada kanal layanan kemahasiswaan serta dokumen resmi FILKOM.",
+          "asset": null
+        }
+      ],
+      "summary": "Informasi BEM, DPM, komunitas mahasiswa, kegiatan pengembangan diri, serta sumber layanan kemahasiswaan.",
+      "narration_id": "menu_08",
+      "narration_text": "Menu kemahasiswaan memperkenalkan kegiatan dan organisasi mahasiswa di lingkungan FILKOM Universitas Brawijaya. Selain mengikuti perkuliahan, mahasiswa dapat mengembangkan kemampuan komunikasi, kepemimpinan, kerja sama, dan minat khusus melalui berbagai aktivitas kemahasiswaan. Situs FILKOM mencantumkan Badan Eksekutif Mahasiswa, Dewan Perwakilan Mahasiswa, dan sejumlah organisasi serta komunitas mahasiswa lainnya. Kegiatan yang dapat diinformasikan meliputi pembinaan, kompetisi, program organisasi, dan layanan pendukung mahasiswa sesuai pengumuman resmi. Untuk mengetahui organisasi yang aktif dan kegiatan terbaru, silakan merujuk pada kanal kemahasiswaan FILKOM.",
+      "visual_assets": [],
+      "visual_guidance": "Kartu BEM dan DPM, daftar komunitas, galeri kegiatan resmi, tautan pedoman layanan kemahasiswaan.",
+      "source_codes": [
+        "S12",
+        "S08",
+        "S18"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/kemahasiswaan/",
+        "https://filkom.ub.ac.id/profil/dokumen-resmi/",
+        "https://filkom.ub.ac.id/informasi-update/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Aktivitas organisasi dan agenda berubah; cantumkan “informasi terakhir diperbarui” jika data disimpan secara lokal.",
+      "requires_current_information_check": true
+    },
+    {
+      "id": 9,
+      "gesture": 9,
+      "title": "Penelitian & Pengabdian",
+      "subtitle": "Kegiatan riset, publikasi, dan kontribusi teknologi untuk masyarakat.",
+      "intro": "Penelitian dan pengabdian kepada masyarakat merupakan bagian dari Tridharma Perguruan Tinggi. FILKOM menyediakan panduan terkait penelitian serta pengabdian melalui laman resminya.",
+      "sections": [
+        {
+          "title": "Penelitian",
+          "body": "Kegiatan penelitian diarahkan pada pengembangan pengetahuan, metode, dan solusi teknologi informasi serta ilmu komputer.",
+          "asset": null
+        },
+        {
+          "title": "Pengabdian kepada masyarakat",
+          "body": "Kegiatan pengabdian merupakan penerapan pengetahuan atau teknologi untuk menjawab kebutuhan masyarakat dan mitra.",
+          "asset": null
+        },
+        {
+          "title": "Keterlibatan sivitas akademika",
+          "body": "Dosen dan mahasiswa dapat berperan dalam kegiatan penelitian, publikasi, pengembangan prototipe, maupun pengabdian sesuai skema dan aturan yang tersedia.",
+          "asset": null
+        },
+        {
+          "title": "Panduan dan informasi",
+          "body": "Situs FILKOM menyediakan halaman panduan penelitian serta pengabdian dan merujuk ke pengelolaan tingkat universitas.",
+          "asset": null
+        }
+      ],
+      "summary": "Gambaran penelitian, pengabdian kepada masyarakat, partisipasi sivitas akademika, serta tautan panduan resmi.",
+      "narration_id": "menu_09",
+      "narration_text": "Selamat datang pada menu penelitian dan pengabdian kepada masyarakat FILKOM Universitas Brawijaya. Kegiatan penelitian berperan dalam menghasilkan pengetahuan baru dan mengembangkan solusi teknologi yang relevan dengan kebutuhan industri serta masyarakat. Sementara itu, pengabdian kepada masyarakat merupakan bentuk penerapan keahlian akademik untuk memberikan manfaat secara langsung. Dosen dan mahasiswa dapat berkontribusi melalui riset, publikasi, pengembangan teknologi, dan kegiatan pendampingan sesuai program yang tersedia. Informasi mengenai panduan, pengajuan, dan ketentuan kegiatan dapat diperoleh melalui halaman penelitian dan pengabdian resmi FILKOM.",
+      "visual_assets": [],
+      "visual_guidance": "Dua kolom Penelitian dan Pengabdian; diagram Tridharma; tautan panduan dan dokumentasi kegiatan yang berizin.",
+      "source_codes": [
+        "S13",
+        "S14",
+        "S03"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/penelitian-dan-pengabdian/panduan-penelitian-pengabdian/",
+        "https://filkom.ub.ac.id/penelitian-dan-pengabdian/",
+        "https://filkom.ub.ac.id/profil/visi-misi-dan-tujuan/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Jangan menampilkan angka capaian, hibah aktif, atau jumlah publikasi kecuali ada data resmi terbaru dan periode jelas.",
+      "requires_current_information_check": false
+    },
+    {
+      "id": 10,
+      "gesture": 10,
+      "title": "Kontak & Lokasi",
+      "subtitle": "Alamat dan kanal kontak resmi Fakultas Ilmu Komputer UB.",
+      "intro": "Informasi kontak berikut bersumber dari laman resmi FILKOM UB. Konten ini dimaksudkan untuk membantu pengguna mengidentifikasi lokasi fakultas serta kanal komunikasi umum.",
+      "sections": [
+        {
+          "title": "Alamat",
+          "body": "Fakultas Ilmu Komputer Universitas Brawijaya, Jl. Veteran, Ketawanggede, Kecamatan Lowokwaru, Kota Malang, Jawa Timur 65145.",
+          "asset": null
+        },
+        {
+          "title": "Telepon",
+          "body": "0341-577911.",
+          "asset": null
+        },
+        {
+          "title": "Email",
+          "body": "filkom@ub.ac.id.",
+          "asset": null
+        },
+        {
+          "title": "Website",
+          "body": "https://filkom.ub.ac.id/",
+          "asset": null
+        },
+        {
+          "title": "Petunjuk kontak",
+          "body": "Untuk pertanyaan khusus layanan akademik, gunakan kanal layanan yang relevan pada portal resmi FILKOM. Jam layanan serta kontak masing-masing unit perlu diverifikasi secara terpisah.",
+          "asset": null
+        }
+      ],
+      "summary": "Alamat FILKOM UB, telepon 0341-577911, email filkom@ub.ac.id, dan website resmi.",
+      "narration_id": "menu_10",
+      "narration_text": "Anda berada pada menu kontak dan lokasi Fakultas Ilmu Komputer Universitas Brawijaya. FILKOM berlokasi di Jalan Veteran, Kelurahan Ketawanggede, Kecamatan Lowokwaru, Kota Malang, Jawa Timur. Untuk menghubungi fakultas, Anda dapat menggunakan nomor telepon nol tiga empat satu, lima tujuh tujuh sembilan satu satu, atau melalui email filkom at ub titik ac titik id. Informasi resmi fakultas juga tersedia pada situs filkom titik ub titik ac titik id. Apabila Anda membutuhkan bantuan layanan akademik tertentu, silakan menggunakan kanal bantuan yang sesuai. Gunakan gestur kepalan tangan untuk kembali ke halaman utama.",
+      "visual_assets": [],
+      "visual_guidance": "Kartu alamat, nomor telepon, email, tautan resmi, serta gambar peta sebagai aset terpisah yang telah diizinkan.",
+      "source_codes": [
+        "S15",
+        "S07"
+      ],
+      "source_urls": [
+        "https://filkom.ub.ac.id/",
+        "https://filkom.ub.ac.id/info-mahasiswa/"
+      ],
+      "last_verified_at": null,
+      "source_draft_date": "2026-11-02",
+      "verification_status": "DRAF_BELUM_DISAHKAN",
+      "validation_note": "Narasi email dan angka telepon harus diuji langsung pada engine TTS agar pengucapan dapat dipahami.",
+      "requires_current_information_check": true
+    }
+  ]
+}

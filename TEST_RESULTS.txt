@@ -1,0 +1,6 @@
+................                                                         [100%]
+16 passed, 1 skipped in 0.05s
+
+Eksekusi: Python 3.13.5 (lingkungan pengembangan sementara).
+PySide6, MediaPipe, edge-tts tidak terpasang di lingkungan ini.
+Tidak ada pengujian Qt GUI, webcam fisik, speaker, atau sintesis jaringan.
